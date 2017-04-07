@@ -1,0 +1,16 @@
+div{
+  margin : 10px 0px;
+}
+
+.title {
+  display:inline-block;
+  width: 110px;
+  cursor: default;
+}
+.erreur{
+  color : white;
+  background-color: red;
+  font-size: 20px;
+  width: 340px;
+  padding: 0px 25px;
+}
